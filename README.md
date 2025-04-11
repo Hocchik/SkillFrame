@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WebPortafolios
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# SkillFrame
+Proyecto universitario sobre plantillas para portafolios para los programadores y otras carreras, mediando un sistema sencillo de creación o de la misma obtencio del codigo para editarlo tu mismo
+>>>>>>> 632d9754333f06ec8be22a909e14d854f8475421
